@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>High-End Cars Showcase</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🚗 High-End Cars Showcase</h1>
+    <p>Explore the world’s most powerful and luxurious cars</p>
+  </header>
+
+  <section class="cars">
+    <div class="car-card">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Bugatti_Chiron_IMG_1008.jpg" alt="Bugatti Chiron">
+      <h2>Bugatti Chiron</h2>
+      <ul>
+        <li>Engine: 8.0L Quad-Turbo W16</li>
+        <li>Top Speed: 420 km/h</li>
+        <li>Price: $3 Million</li>
+      </ul>
+    </div>
+
+    <div class="car-card">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Lamborghini_Aventador_SVJ_%2848598626152%29.jpg" alt="Lamborghini Aventador SVJ">
+      <h2>Lamborghini Aventador SVJ</h2>
+      <ul>
+        <li>Engine: 6.5L V12</li>
+        <li>Top Speed: 350 km/h</li>
+        <li>Price: $600,000</li>
+      </ul>
+    </div>
+
+    <div class="car-card">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ferrari_SF90_Stradale_Genf_2019_1Y7A5667.jpg" alt="Ferrari SF90 Stradale">
+      <h2>Ferrari SF90 Stradale</h2>
+      <ul>
+        <li>Engine: 4.0L Twin-Turbo V8 Hybrid</li>
+        <li>Top Speed: 340 km/h</li>
+        <li>Price: $500,000</li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Car Showcase. Built with ❤️ by [Your Name]</p>
+  </footer>
+</body>
+</html>
